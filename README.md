@@ -8,6 +8,9 @@
 
 Инструмент для учителя, который хочет видеть не просто цифры в журнале, а реальную картину: кто застрял на теме, у кого падает динамика, кому нужна помощь прямо сейчас.
 
+<img width="1101" height="752" alt="image" src="https://github.com/user-attachments/assets/2d64509c-6ca9-4034-9390-a82c4866706b" />
+
+
 Никакого облака. Никакой регистрации. Данные хранятся локально в SQLite.
 
 ---
@@ -44,6 +47,8 @@ SQLite → TopicHistory → DynamicsAnalyzer → ExplainableRec → LLMStub → 
 ```
 
 LLMStub не анализирует оценки сам — только красиво форматирует то, что уже посчитал `DynamicsAnalyzer`.
+
+<img width="1101" height="748" alt="image" src="https://github.com/user-attachments/assets/2470980f-dc0a-40bc-b00d-0c23fe863a3c" />
 
 ---
 
